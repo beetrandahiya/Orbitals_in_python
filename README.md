@@ -11,4 +11,5 @@ file: orbitalsplot2d.py
 Its simple to use, Just clone the file and install dependencies , and you are good to go<br>
 ![screenshot](/assests/screenshot1.png)<br>
 It will plot a graph of **Ψ and Ψ<sup>2</sup>**.<br>
-Inspired from : [Reference](https://towardsdatascience.com/quantum-physics-visualization-with-python-35df8b365ff)
+Inspired from : 
+<a href="https://towardsdatascience.com/quantum-physics-visualization-with-python-35df8b365ff" target="_blank">Reference</a>
